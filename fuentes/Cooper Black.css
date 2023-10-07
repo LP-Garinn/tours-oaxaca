@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Cooper Black';
+    src: url('fonts/COOPBL.eot');
+    src: url('fonts/COOPBL.eot?#iefix') format('embedded-opentype'),
+         url('fonts/COOPBL.woff2') format('woff2'),
+         url('fonts/COOPBL.woff') format('woff'),
+         url('fonts/COOPBL.ttf')  format('truetype'),
+         url('fonts/COOPBL.svg#Cooper Black') format('svg');
+}
